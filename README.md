@@ -1,4 +1,4 @@
-# Wild-scene-image-segmentation
+# Wild-scene-image-segmentation(2D only)
 The project collected more than 5,000 wild environment images and corresponding labels. First, the DeepLabV3-ResNet50
 method in the paper K. Vidanapathirana et al. (2023). WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in
 Large-scale Natural Environments. was reproduced. Then the team innovated two methods, DeepLabV3-MobileNetV3 and
